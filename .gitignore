@@ -1,0 +1,15 @@
+.idea/*
+# Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
+# example: *tfplan*-terraform
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+.terraform/
+
+# Local .terraform directories
+**/.terraform/*
+.terraform
+.DS_Store
+# .tfstate files
+
+
