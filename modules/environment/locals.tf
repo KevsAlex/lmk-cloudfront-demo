@@ -42,7 +42,7 @@ locals {
 
   domain-cachutacos = {
     description = "us-east-1"
-    staging     = ""
+    staging     = "cachutacos.lmeknow.com"
     prod        = "cachutacos.lmeknow.com"
   }
 

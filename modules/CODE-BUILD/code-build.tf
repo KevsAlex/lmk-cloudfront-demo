@@ -3,7 +3,7 @@
 #---------------------------
 locals {
   repo-branch = {
-    staging = "refs/heads/"
+    staging = "refs/heads/master"
     prod  = "refs/heads/master"
   }
 }
